@@ -4,7 +4,7 @@
 
 This project analyzes Mexico City apartment listings and builds a machine learning model to predict apartment prices in USD.
 
-The original notebook-style code has been separated into modular Python files to make the project easier to understand, maintain, and run. Each file handles a specific part of the workflow:
+Each of the following files handles a specific part of the workflow:
 
 - `extract.py` handles data loading and wrangling.
 - `clean.py` handles inspection and preparation checks.
@@ -255,4 +255,3 @@ When the project runs, it produces:
 - The model uses Ridge Regression.
 - The categorical `borough` feature is encoded using `OneHotEncoder`.
 - The target variable is `price_aprox_usd`.
-- The project is designed for learning, EDA, and basic apartment price prediction.
