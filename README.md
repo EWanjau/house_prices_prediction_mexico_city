@@ -1,6 +1,6 @@
-# Mexico City Real Estate Price Prediction Project
+# Mexico City Real Estate Price Prediction
 
-## Project Description
+## Description
 
 This project analyzes Mexico City apartment listings and builds a machine learning model to predict apartment prices in USD.
 
